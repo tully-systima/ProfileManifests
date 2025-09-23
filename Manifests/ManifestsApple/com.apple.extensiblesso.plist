@@ -251,7 +251,7 @@ The system:
 - Requires that all the host and domain names of all installed Extensible SSO payloads are unique
 
 Note:
-Host names that begin with a "." are wildcard suffixes that match all subdomains; otherwise the host name needs be an exact match.</string>
+Host names that begin with a "." are wildcard suffixes that match all subdomains; otherwise the host name needs to be an exact match.</string>
 			<key>pfm_exclude</key>
 			<array>
 				<dict>
