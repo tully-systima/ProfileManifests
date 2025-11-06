@@ -997,6 +997,15 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+        <key>com.systima.soeConfig</key>
+		<dict>
+			<key>modified</key>
+			<date>2025-06-17T08:00:00Z</date>
+			<key>path</key>
+			<string>Manifests/ManagedPreferencesApplications/com.systima.soeConfig.plist</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
 		<key>com.tinyspeck.slackmacgap</key>
 		<dict>
 			<key>modified</key>
