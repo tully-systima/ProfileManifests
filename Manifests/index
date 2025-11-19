@@ -757,11 +757,11 @@
 		<key>com.microsoft.Edge</key>
 		<dict>
 			<key>modified</key>
-			<date>2024-09-04T15:50:02Z</date>
+			<date>2025-11-04T10:00:02Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.microsoft.Edge.plist</string>
 			<key>version</key>
-			<integer>15</integer>
+			<integer>16</integer>
 		</dict>
 		<key>com.microsoft.Excel</key>
 		<dict>
@@ -2427,6 +2427,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-11-05T15:22:23Z</date>
+	<date>2025-11-19T18:01:15Z</date>
 </dict>
 </plist>
