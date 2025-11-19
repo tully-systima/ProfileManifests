@@ -1261,11 +1261,11 @@
 		<key>xyz.techitout.appAutoPatch</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-05-16T13:25:42Z</date>
+			<date>2025-10-20T08:00:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/xyz.techitout.appAutoPatch.plist</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>ManagedPreferencesDeveloper</key>
@@ -2427,6 +2427,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-11-19T18:01:15Z</date>
+	<date>2025-11-19T18:27:42Z</date>
 </dict>
 </plist>
