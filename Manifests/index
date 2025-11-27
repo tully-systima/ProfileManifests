@@ -367,6 +367,15 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<key>com.anthropic.claudefordesktop</key>
+		<dict>
+			<key>modified</key>
+			<date>2025-10-21T00:00:00Z</date>
+			<key>path</key>
+			<string>Manifests/ManagedPreferencesApplications/com.anthropic.claudefordesktop.plist</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<key>com.apple.Compressor</key>
 		<dict>
 			<key>modified</key>
@@ -676,11 +685,11 @@
 		<key>com.jamf.setupmanager</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-06-25T19:00:00Z</date>
+			<date>2025-11-23T03:30:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.jamf.setupmanager.plist</string>
 			<key>version</key>
-			<integer>4</integer>
+			<integer>5</integer>
 		</dict>
 		<key>com.jamf.trust</key>
 		<dict>
@@ -757,11 +766,11 @@
 		<key>com.microsoft.Edge</key>
 		<dict>
 			<key>modified</key>
-			<date>2024-09-04T15:50:02Z</date>
+			<date>2025-11-19T18:35:23Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.microsoft.Edge.plist</string>
 			<key>version</key>
-			<integer>15</integer>
+			<integer>16</integer>
 		</dict>
 		<key>com.microsoft.Excel</key>
 		<dict>
@@ -820,7 +829,7 @@
 		<key>com.microsoft.SkypeForBusiness</key>
 		<dict>
 			<key>modified</key>
-			<date>2023-08-15T08:00:00Z</date>
+			<date>2025-11-21T08:19:59Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.microsoft.SkypeForBusiness.plist</string>
 			<key>version</key>
@@ -1099,11 +1108,11 @@
 		<key>dev.firezone.firezone</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-05-26T15:53:00Z</date>
+			<date>2025-11-19T18:29:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/dev.firezone.firezone.plist</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>edu.ncsu.confboard</key>
 		<dict>
@@ -1270,11 +1279,11 @@
 		<key>xyz.techitout.appAutoPatch</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-05-16T13:25:42Z</date>
+			<date>2025-11-19T18:35:23Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/xyz.techitout.appAutoPatch.plist</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>ManagedPreferencesDeveloper</key>
@@ -2436,6 +2445,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-11-05T15:22:23Z</date>
+	<date>2025-11-25T15:43:36Z</date>
 </dict>
 </plist>
