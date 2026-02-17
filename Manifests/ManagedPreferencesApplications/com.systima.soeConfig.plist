@@ -834,7 +834,7 @@ BundleID can be found by running:
                     <array>
                         <string>disableScreenRecDialog</string>
                         <string>disableAppUpdateNotifications</string>
-                        <string>disableAccountSetupInstructions</string>
+                        <string>disableSelfServiceDialog</string>
                     </array>
                     <key>Device Name</key>
                     <array>
