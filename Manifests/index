@@ -289,11 +289,11 @@
 		<key>ManagedInstalls</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-08T13:16:23Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/ManagedInstalls.plist</string>
 			<key>version</key>
-			<integer>12</integer>
+			<integer>13</integer>
 		</dict>
 		<key>MunkiReport</key>
 		<dict>
@@ -307,7 +307,7 @@
 		<key>SupportCompanion</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T08:42:40Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/SupportCompanion.plist</string>
 			<key>version</key>
@@ -370,11 +370,11 @@
 		<key>com.anthropic.claudefordesktop</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-08T08:16:06Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.anthropic.claudefordesktop.plist</string>
 			<key>version</key>
-			<integer>4</integer>
+			<integer>5</integer>
 		</dict>
 		<key>com.apple.Compressor</key>
 		<dict>
@@ -451,7 +451,7 @@
 		<key>com.barebones.bbedit</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T10:40:13Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.barebones.bbedit.plist</string>
 			<key>version</key>
@@ -460,7 +460,7 @@
 		<key>com.brave.Browser</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T10:12:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.brave.Browser.plist</string>
 			<key>version</key>
@@ -496,11 +496,11 @@
 		<key>com.dare.zappl.preferences</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-15T09:25:33Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.dare.zappl.preferences.plist</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<key>com.docker.config</key>
 		<dict>
@@ -550,7 +550,7 @@
 		<key>com.github.macadmins.SupportCompanion</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T08:42:40Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.github.macadmins.SupportCompanion.plist</string>
 			<key>version</key>
@@ -586,7 +586,7 @@
 		<key>com.google.Chrome</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T10:12:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.google.Chrome.plist</string>
 			<key>version</key>
@@ -631,11 +631,11 @@
 		<key>com.grammarly.ProjectLlama</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T20:54:20Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.grammarly.ProjectLlama.plist</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>com.hjuutilainen.MunkiAdmin</key>
 		<dict>
@@ -757,7 +757,7 @@
 		<key>com.macjutsu.super</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T09:12:12Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.macjutsu.super.plist</string>
 			<key>version</key>
@@ -982,7 +982,7 @@
 		<key>com.pratikkumar.airserver-mac</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T08:42:40Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.pratikkumar.airserver-mac.plist</string>
 			<key>version</key>
@@ -1000,11 +1000,11 @@
 		<key>com.secondsonconsulting.renew</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-15T00:00:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.secondsonconsulting.renew.plist</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<key>com.sentinelone.registration-token</key>
 		<dict>
@@ -1267,6 +1267,15 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<key>net.whatsapp.WhatsApp</key>
+		<dict>
+			<key>modified</key>
+			<date>2026-07-02T15:12:59Z</date>
+			<key>path</key>
+			<string>Manifests/ManagedPreferencesApplications/net.whatsapp.WhatsApp.plist</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<key>nl.root3.support</key>
 		<dict>
 			<key>modified</key>
@@ -1288,11 +1297,11 @@
 		<key>org.churchofjesuschrist.dorm</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-09T00:00:00Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/org.churchofjesuschrist.dorm.plist</string>
 			<key>version</key>
-			<integer>3</integer>
+			<integer>4</integer>
 		</dict>
 		<key>org.mozilla.firefox</key>
 		<dict>
@@ -1417,7 +1426,7 @@
 		<key>com.profilecreator.developer.slider</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T08:42:40Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesDeveloper/com.profilecreator.developer.slider.plist</string>
 			<key>version</key>
@@ -1483,7 +1492,7 @@
 		<key>com.apple.AssetCache.managed</key>
 		<dict>
 			<key>modified</key>
-			<date>2026-06-23T15:59:45Z</date>
+			<date>2026-07-02T08:42:40Z</date>
 			<key>path</key>
 			<string>Manifests/ManifestsApple/com.apple.AssetCache.managed.plist</string>
 			<key>version</key>
@@ -2508,6 +2517,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2026-06-24T16:24:10Z</date>
+	<date>2026-07-15T18:25:16Z</date>
 </dict>
 </plist>
